@@ -1,0 +1,13 @@
+{
+  "p_id": 12245,
+  "p_name": "shoes",
+  "p_brand": "puma",
+  "p_size": "L",
+  "p_orig_price": "300",
+  "p_dis_price": "220",
+  "p_discount": "10%",
+  "img":"image",
+  "likes":100,
+  "slug":"ma"
+}
+client\src\img\jordan.jpg
